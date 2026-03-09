@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Tinhuynh3107/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Tinhuynh3107/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Tinhuynh3107/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Tinhuynh3107/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Tinhuynh3107/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/Tinhuynh3107/leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -40,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Tinhuynh3107/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Tinhuynh3107/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
