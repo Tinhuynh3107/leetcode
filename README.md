@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Tinhuynh3107/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Tinhuynh3107/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/Tinhuynh3107/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Tinhuynh3107/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Tinhuynh3107/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
