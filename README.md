@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Tinhuynh3107/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0645-set-mismatch](https://github.com/Tinhuynh3107/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Tinhuynh3107/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0645-set-mismatch](https://github.com/Tinhuynh3107/leetcode/tree/main/0645-set-mismatch/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/Tinhuynh3107/leetcode/tree/main/0645-set-mismatch/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/Tinhuynh3107/leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
