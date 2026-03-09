@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Tinhuynh3107/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Tinhuynh3107/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Tinhuynh3107/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Tinhuynh3107/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Tinhuynh3107/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Tinhuynh3107/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -46,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Tinhuynh3107/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Tinhuynh3107/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
