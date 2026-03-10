@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Tinhuynh3107/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Tinhuynh3107/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tinhuynh3107/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Tinhuynh3107/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/Tinhuynh3107/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Tinhuynh3107/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tinhuynh3107/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Tinhuynh3107/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
