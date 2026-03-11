@@ -7,7 +7,7 @@ bool judgeCircle(char* moves) {
         if(moves[i] == 'U') cnt1++;
         else if(moves[i] == 'D') cnt1--;
         else if(moves[i] == 'R') cnt2++;
-        else if(moves[i] == 'L') cnt2--;
+        else cnt2--;
     }
 
     return cnt1 == 0 && cnt2 == 0;
