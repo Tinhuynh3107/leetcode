@@ -1,4 +1,4 @@
-bool judgeCircle(char* moves) {;
+bool judgeCircle(char* moves) {
     int cnt1 = 0;
     int cnt2 = 0;
 
