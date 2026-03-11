@@ -1,6 +1,6 @@
 bool judgeCircle(char* moves) {
     int cnt1 = 0;
-    int cnt2 = 0
+    int cnt2 = 0;
 
     for(int i = 0; moves[i]; i++){
         if(moves[i] == 'U') cnt1++;
