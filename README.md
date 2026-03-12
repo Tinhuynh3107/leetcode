@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Tinhuynh3107/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Tinhuynh3107/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Tinhuynh3107/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Tinhuynh3107/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Tinhuynh3107/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tinhuynh3107/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Tinhuynh3107/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tinhuynh3107/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Tinhuynh3107/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
