@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tinhuynh3107/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Tinhuynh3107/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Tinhuynh3107/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0383-ransom-note](https://github.com/Tinhuynh3107/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Tinhuynh3107/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Tinhuynh3107/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tinhuynh3107/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tinhuynh3107/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tinhuynh3107/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0383-ransom-note](https://github.com/Tinhuynh3107/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Tinhuynh3107/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/Tinhuynh3107/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Bit Manipulation
@@ -80,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tinhuynh3107/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Tinhuynh3107/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/Tinhuynh3107/leetcode/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
