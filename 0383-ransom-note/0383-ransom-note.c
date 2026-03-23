@@ -11,5 +11,6 @@ bool canConstruct(char* ransomNote, char* magazine) {
     for (int i = 0; ransomNote[i]; i++){
         if (map[ransomNote[i]] > 0) return 0;
     }
+    free(map);
     return 1;
 }
